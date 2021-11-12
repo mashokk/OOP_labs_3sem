@@ -1,0 +1,14 @@
+C:\Users\Masha\Pictures\c#\OOP_Lab4\OOP_Lab4\bin\Debug\netcoreapp3.1\OOP_Lab4.exe
+C:\Users\Masha\Pictures\c#\OOP_Lab4\OOP_Lab4\bin\Debug\netcoreapp3.1\OOP_Lab4.deps.json
+C:\Users\Masha\Pictures\c#\OOP_Lab4\OOP_Lab4\bin\Debug\netcoreapp3.1\OOP_Lab4.runtimeconfig.json
+C:\Users\Masha\Pictures\c#\OOP_Lab4\OOP_Lab4\bin\Debug\netcoreapp3.1\OOP_Lab4.runtimeconfig.dev.json
+C:\Users\Masha\Pictures\c#\OOP_Lab4\OOP_Lab4\bin\Debug\netcoreapp3.1\OOP_Lab4.dll
+C:\Users\Masha\Pictures\c#\OOP_Lab4\OOP_Lab4\bin\Debug\netcoreapp3.1\OOP_Lab4.pdb
+C:\Users\Masha\Pictures\c#\OOP_Lab4\OOP_Lab4\obj\Debug\netcoreapp3.1\OOP_Lab4.csproj.AssemblyReference.cache
+C:\Users\Masha\Pictures\c#\OOP_Lab4\OOP_Lab4\obj\Debug\netcoreapp3.1\OOP_Lab4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Masha\Pictures\c#\OOP_Lab4\OOP_Lab4\obj\Debug\netcoreapp3.1\OOP_Lab4.AssemblyInfoInputs.cache
+C:\Users\Masha\Pictures\c#\OOP_Lab4\OOP_Lab4\obj\Debug\netcoreapp3.1\OOP_Lab4.AssemblyInfo.cs
+C:\Users\Masha\Pictures\c#\OOP_Lab4\OOP_Lab4\obj\Debug\netcoreapp3.1\OOP_Lab4.csproj.CoreCompileInputs.cache
+C:\Users\Masha\Pictures\c#\OOP_Lab4\OOP_Lab4\obj\Debug\netcoreapp3.1\OOP_Lab4.dll
+C:\Users\Masha\Pictures\c#\OOP_Lab4\OOP_Lab4\obj\Debug\netcoreapp3.1\OOP_Lab4.pdb
+C:\Users\Masha\Pictures\c#\OOP_Lab4\OOP_Lab4\obj\Debug\netcoreapp3.1\OOP_Lab4.genruntimeconfig.cache
