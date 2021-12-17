@@ -1,0 +1,14 @@
+C:\Users\Masha\Documents\УЧЁБААА\ооп\c#\OOP_Lab7\OOP_Lab7\bin\Debug\netcoreapp3.1\OOP_Lab7.exe
+C:\Users\Masha\Documents\УЧЁБААА\ооп\c#\OOP_Lab7\OOP_Lab7\bin\Debug\netcoreapp3.1\OOP_Lab7.deps.json
+C:\Users\Masha\Documents\УЧЁБААА\ооп\c#\OOP_Lab7\OOP_Lab7\bin\Debug\netcoreapp3.1\OOP_Lab7.runtimeconfig.json
+C:\Users\Masha\Documents\УЧЁБААА\ооп\c#\OOP_Lab7\OOP_Lab7\bin\Debug\netcoreapp3.1\OOP_Lab7.runtimeconfig.dev.json
+C:\Users\Masha\Documents\УЧЁБААА\ооп\c#\OOP_Lab7\OOP_Lab7\bin\Debug\netcoreapp3.1\OOP_Lab7.dll
+C:\Users\Masha\Documents\УЧЁБААА\ооп\c#\OOP_Lab7\OOP_Lab7\bin\Debug\netcoreapp3.1\OOP_Lab7.pdb
+C:\Users\Masha\Documents\УЧЁБААА\ооп\c#\OOP_Lab7\OOP_Lab7\obj\Debug\netcoreapp3.1\OOP_Lab7.csproj.AssemblyReference.cache
+C:\Users\Masha\Documents\УЧЁБААА\ооп\c#\OOP_Lab7\OOP_Lab7\obj\Debug\netcoreapp3.1\OOP_Lab7.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Masha\Documents\УЧЁБААА\ооп\c#\OOP_Lab7\OOP_Lab7\obj\Debug\netcoreapp3.1\OOP_Lab7.AssemblyInfoInputs.cache
+C:\Users\Masha\Documents\УЧЁБААА\ооп\c#\OOP_Lab7\OOP_Lab7\obj\Debug\netcoreapp3.1\OOP_Lab7.AssemblyInfo.cs
+C:\Users\Masha\Documents\УЧЁБААА\ооп\c#\OOP_Lab7\OOP_Lab7\obj\Debug\netcoreapp3.1\OOP_Lab7.csproj.CoreCompileInputs.cache
+C:\Users\Masha\Documents\УЧЁБААА\ооп\c#\OOP_Lab7\OOP_Lab7\obj\Debug\netcoreapp3.1\OOP_Lab7.dll
+C:\Users\Masha\Documents\УЧЁБААА\ооп\c#\OOP_Lab7\OOP_Lab7\obj\Debug\netcoreapp3.1\OOP_Lab7.pdb
+C:\Users\Masha\Documents\УЧЁБААА\ооп\c#\OOP_Lab7\OOP_Lab7\obj\Debug\netcoreapp3.1\OOP_Lab7.genruntimeconfig.cache
